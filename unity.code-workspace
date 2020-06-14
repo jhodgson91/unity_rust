@@ -1,0 +1,12 @@
+{
+    "folders": [
+        {
+            "path": ".",
+            "name": "Unity"
+        },
+        {
+            "path": "Native/rust_native",
+            "name": "Rust Native"
+        },
+    ]
+}
